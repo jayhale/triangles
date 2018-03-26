@@ -1,0 +1,11 @@
+# Triangles project
+*.db*
+
+# Environment managers
+.direnv/
+.envrc
+
+# Python
+__pycache__/
+*.egg-info/
+*.py[cod]
